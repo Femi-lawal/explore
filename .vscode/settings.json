@@ -1,0 +1,10 @@
+{
+  "eslint.alwaysShowStatus": true,
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.syntaxProfiles": {
+  },
+  "emmet.includeLanguages": {
+    "javascript": "html"
+  }
+}
