@@ -7,7 +7,7 @@ const SIZES = ["btn--primary", "btn--outline"];
 export const Button = ({
   children,
   type,
-  onclick,
+  onClick,
   buttonStyle,
   buttonSize,
 }) => {
@@ -20,7 +20,7 @@ export const Button = ({
     <Link to="/sign-up" className="btn-mobile">
       <button
         className={`btn ${checkButtonStyle} ${checkButtonSize}`}
-        onclick={onclick}
+        onClick={onClick}
         type={type}
       >
         {children}
