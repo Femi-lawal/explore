@@ -65,7 +65,7 @@ function Footer() {
           <div class="footer-logo">
             <Link to="/" className="social-logo">
               EXPLR
-              <i class="fab fa-typo3" />
+              <i class="fas fa-plane" />
             </Link>
           </div>
           <small class="website-rights">
